@@ -43,3 +43,8 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 
 To be successful as a programmer, you should also have a deep understanding of computer science principles, such as data structures, algorithms, software engineering, etc. These principles will help you write efficient, maintainable,and scalable code. Additionally, learning about different programming paradigms, like object-oriented programming, functional programming and reactive programming can broaden your skillset and make you a more versatile developer. 
  学习编程语言和工具的更新版本，并不断实践，以保持技能的新鲜感和准确性。了解计算机科学的基本原则，如数据结构、算法和软件工程，以及不同的编程范式，如有面向对象的编程、函数式编程和反应式。与同行建立联系，参加编程社区和讨论组，分享知识和经验。不断寻求反馈，接受建设性的批评，努力改进自己的技能。最重要的是，保持好奇心和热情，对学习新事物充满兴趣。
+
+# 2023-11-25
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project before moving on to other, potentially less important tasks
