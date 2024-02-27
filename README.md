@@ -443,3 +443,13 @@ In essence, this quote emphasizes that trying to optimize code too early in the 
 
 # 2024-02-26
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and urgency. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use task management tools and versions control systems to stay organised and track your progress. Remember to take breaks and keep your code clean and well-documented. By following these tips, you will be able to achieve your goals more effectively and become a better programmer.
+
+# 2024-02-27
+- "Today's programming wisdom is to embrace the SOLID principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These guidelines ensure code maintainability, scalability, and reusability, leading to more robust software systems that can withstand the test of time and evolving requirements." 
+
+In essence:
+1. **Single Responsibility Principle**: A class should have only one reason to change.
+2. **Open-Closed Principle**: Software entities (classes, modules, functions) should be open for extension but closed for modification.
+3. **Liskov Substitution Principle**: Derived classes must be substitutable for their base classes without altering correctness.
+4. **Interface Segregation Principle**: Make fine-grained interfaces that are tailored to clients, rather than one-size-fits-all.
+5. **Dependency Inversion Principle**: High-level modules should not depend on low-level modules; both should depend on abstractions. Abstractions should not depend on details; details should depend on abstractions.
